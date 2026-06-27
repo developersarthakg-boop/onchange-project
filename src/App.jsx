@@ -1,10 +1,10 @@
 import React from "react";
-import Onchanges from "./Onchanges";
+import ControlledForm from "./ControlledForm";
 
 const App = () => {
   return (
     <div>
-      <Onchanges />
+      <ControlledForm />
     </div>
   );
 };
