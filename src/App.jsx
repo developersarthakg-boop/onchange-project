@@ -5,6 +5,7 @@ import Conditionalcheck from "./Conditionalcheck";
 import Listtss from "./Listtss";
 import MultipleStatus from "./MultipleStatus";
 import FormsData from "./FormsData";
+import SelectanndChecked from "./SelectanndChecked";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Listtss />
       <MultipleStatus />
       <FormsData />
+      <SelectanndChecked />
     </div>
   );
 };
